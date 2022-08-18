@@ -1,4 +1,4 @@
-# Ex2 - Dijsktra Shortest Path
+# Ex2 - Dijkstra Shortest Path
 
 Considere um grafo dirigido e ponderado G = (V, A, w) representando um mapa com as distâncias.
 Em G, V é um conjunto de localidades, A o conjunto de arcos e w a funcão de distância de um arco em km. 
